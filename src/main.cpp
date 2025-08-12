@@ -39,7 +39,6 @@ public:
         m_inventory = tempInventory;
         return std::nullopt;
 
-
     }
 
     // Debugging helpers
